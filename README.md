@@ -1,7 +1,7 @@
 
-# Lists of Characters
+# MediCare
 
-It took 12 hrs to complete the assignment, which is completly functional and have used the Chakra Ui to make the assignment much better.
+It took 12 hrs to complete the assignment, have given the same measurement for all the div and font which was given in figma.
 
 
 
