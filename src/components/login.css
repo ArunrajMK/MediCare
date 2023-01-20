@@ -1,0 +1,62 @@
+
+
+#loginContainer{
+    position: relative;
+    width: 1440px;
+    height: 900px;
+    background: #FFFFFF;
+    display: flex;
+}
+
+
+#h2{
+    margin-top: 10%;
+}
+
+#loginLeftBox{
+   height: 100%;
+   width: 55%;
+   background: #F0F4FC;
+}
+
+
+
+#loginRightBox{
+   
+    height: 100%;
+    width: 45%;
+  
+}
+
+input{
+    height:30px;
+    width:230px;
+    border:2px solid rgb(216,225,255);
+    border-radius: 5px;
+    margin-bottom: 20px;
+   
+}
+
+#loginSelect{
+    height:37px;
+    width:238px;
+    border:2px solid rgb(216,225,255);
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+
+#signInButton{
+    background: #FC6964;
+    height: 35px;
+    width: 234px;
+    border-radius: 5px;
+    border:0px solid ;
+    color: white;
+    cursor: pointer;
+}
+
+
+#h3{
+    margin-top: 25%;
+}

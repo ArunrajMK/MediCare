@@ -1,0 +1,134 @@
+#appoinmentContainer{
+    position: relative;
+    width: 1446px;
+    height: 939px;
+    
+    background: #FFFFFF;
+}
+
+/* #appounmentTopDiv{
+    display: flex;
+    gap:60%
+} */
+
+#addButton{
+    margin-left: 900px;
+     margin-bottom: 40px;
+    background: white;
+    height: 35px;
+    width: 130px;
+    border-radius: 5px;
+    border:1px solid ;
+    color: #FC6964;
+    cursor: pointer;
+}
+
+#appoinmentNavbar {
+    position: absolute;
+    width: 77px;
+    height: 953px;
+    left: 0px;
+    top: 0px;
+    background: #203765;
+}
+
+
+#appoinmentBox {
+    position: absolute;
+    width: 1261px;
+    height: 575px;
+    left: 109px;
+    top: 268px;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px #E5E6EF;
+    border-radius: 6px;
+}
+
+
+#appoinmentInnerBox {
+    position: absolute;
+    width: 1261px;
+    height: 46px;
+    left: 109px;
+    top: 268px;
+    background: #F0F4FD;
+}
+
+p,h1,h2,h3,h4,h5,h6,th,td{
+    font-family: 'Inter';
+}
+
+
+#leftDashboardNav {
+
+    position: absolute;
+    width: 77px;
+    height: 1726px;
+    left: 0px;
+    top: 0px;
+    gap: 10px;
+    background: #203765;
+}
+
+#navFirstDiv {
+    margin-top: 240px;
+}
+
+.navIcon {
+    cursor: pointer;
+}
+
+#appoinmentNavbar div {
+    margin-bottom: 25px;
+}
+
+
+/* table */
+#customers {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #customers td, #customers th {
+    padding: 30px;
+    cursor: pointer;
+  }
+
+  #customers tr{
+    border: 1px solid #ddd;
+  }
+  
+  #customers th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background: #F0F4FD;
+    color: black;
+  }
+
+  #hr{
+    background:black;
+   margin:50px;
+   margin-left:100px;
+   margin-right:100px;
+   margin-top: -6px;
+}
+
+    #appoinmentText1{
+        text-align: left;
+        margin-left: 10%;
+    }
+    #appoinmentText2{
+        text-align: left;
+        margin-left: 10%;
+    }
+
+    #appoinmentSelect{
+        height:37px;
+        width:180px;
+        border:2px solid rgb(216,225,255);
+        margin-bottom: 20px;
+        border-radius: 5px;
+        margin-left:9px ;
+    }
